@@ -1,1 +1,1 @@
-(./images/123.png)
+ (./images/123.jpeg)
